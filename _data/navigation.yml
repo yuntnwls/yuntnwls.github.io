@@ -1,5 +1,9 @@
 # main links
 main:
+  - title: "Algorithm"
+    url: /categories/Algorithm/
+  - title: "Categories"
+    url: /categories/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -10,7 +14,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Categories"
-    url: /categories/
-  - title: "Algorithm"
-    url: /categories/Algorithm/
