@@ -2,6 +2,8 @@
 main:
   - title: "Algorithm"
     url: /categories/Algorithm/
+  - title: "Study"
+    url: /categories/Study/
   - title: "Categories"
     url: /categories/
   # - title: "Quick-Start Guide"
