@@ -1,11 +1,13 @@
 # main links
 main:
-  - title: "Algorithm"
+  - title: "Coding Test"
     url: /categories/Algorithm/
   - title: "Study"
     url: /categories/Study/
   - title: "Categories"
     url: /categories/
+  - title: "Tags"
+    url: /tags/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"

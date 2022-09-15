@@ -1,5 +1,5 @@
 ---
-title: "Algorithm"
+title: "Coding Test"
 permalink: /categories/Algorithm/
 layout: category
 author_profile: true

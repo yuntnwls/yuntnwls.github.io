@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "코딩공부하기"
+title                    : "공부하기"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Lucy의 코딩 공부 일지"
+name                     : "공부 일지"
 description              : "게으름을 극복하기위해 만든 블로그입니다."
 url                      : "https://yuntnwls.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Sujin Yun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi, I am Sujin."
+  bio              : "코딩 테스트 문제 풀이나 공부하면서 정리한 내용들 포스팅"
   location         : "Seoul,Korea"
   email            : "yuntnwls8260@gmail.com"
   links:
