@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Coding Test"
-    url: /categories/Algorithm/
+    url: /categories/CodingTest/
   - title: "Study"
     url: /categories/Study/
   - title: "Categories"

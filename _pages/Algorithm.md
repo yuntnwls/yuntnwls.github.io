@@ -1,9 +1,9 @@
 ---
 title: "Coding Test"
-permalink: /categories/Algorithm/
+permalink: /categories/CodingTest/
 layout: category
 author_profile: true
-taxonomy: Algorithm
+taxonomy: CodingTest
 ---
 
-알고리즘 공부를 위한 포스팅입니다.
+코딩 테스트 연습를 위한 포스팅입니다.
