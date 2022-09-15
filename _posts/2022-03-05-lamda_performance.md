@@ -4,7 +4,6 @@ categories:
     - Study
 tag : 
     - C#
-    - lambda
 toc : true
 use_math : false
 ---
